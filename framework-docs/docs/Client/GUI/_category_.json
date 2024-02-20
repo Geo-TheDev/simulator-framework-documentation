@@ -1,0 +1,8 @@
+{
+  "label": "GUI",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Modules for manipulating, creating and modifying UI"
+  }
+}
