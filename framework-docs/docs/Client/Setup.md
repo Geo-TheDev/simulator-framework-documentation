@@ -15,5 +15,3 @@ local Framework = require(path.to.framework).GetClient()
 ```
 
 This also gives you access to the 'Shared' modules, these are also documented
-
-i'm lying they aren't yet
