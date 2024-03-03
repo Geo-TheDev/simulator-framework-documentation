@@ -5,7 +5,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 const config: Config = {
   title: 'Simulator Framework',
   tagline: 'Simulator Framework to make games faster',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/icon.ico',
 
   // Set the production url of your site here
   url: 'https://geo-thedev.github.io/',
